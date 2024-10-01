@@ -22,3 +22,5 @@ while running:
         print("You win!")
     elif player == "scissors" and computer == "paper":
         print("You win!")
+    else:
+        print("You lose, better luck next time!")
